@@ -1,0 +1,5 @@
+AR Foundation , ARCore XR Plugins , ARKit XR Plugin 설치
+Cloud Anchor? : AR환경에서 사용자 간 또는 세션 간의 위치 정보를 공유하는 기
+
+AR Session : AR 환경의 수명 주기를 제어
+AR Session Origin : AR 좌표를 Unity 세계 좌표로 변환
